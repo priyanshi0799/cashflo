@@ -18,3 +18,6 @@ In this folder, the server side code is stored.
 The entire backend is created using NodeJS's framework "Express" and is using the number of dependencies like "bcryptjs, jsonwebtoken,
 mongoose", and can be installed using "npm install command".
 Now run "node app" to start the server
+
+*****************************************Highlights*****************************************
+I have used Json Web Token, bcryptjs, ReactJS, Cloudinary, NodeJS, ExpressJS and MongoDB
